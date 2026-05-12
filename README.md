@@ -47,8 +47,10 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 4. **Connect the SQL Database to Power BI**
 
       - Open **Ecommerce_BI_Dashboard.pbix**
+
 ![Project Workflow](https://github.com/akashcstech/Ecommerce_Data_Anlytics/blob/main/Dashboard%20img.png)
    
+
       - Create interactive dashboard in Power BI
   
 
