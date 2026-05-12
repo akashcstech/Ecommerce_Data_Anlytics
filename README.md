@@ -26,8 +26,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
     This file contains:
 
-      - Data Import
-      - Kaggle Sample Dataset https://www.kaggle.com/datasets/jockeroika/ecommerce-data/data
+      - Data Import - Kaggle Sample Dataset https://www.kaggle.com/datasets/jockeroika/ecommerce-data/data
 
       - Data exploration
 
